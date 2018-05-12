@@ -1,0 +1,33 @@
+_repo: '---------------------------_36845'
+_version: 0.1.0
+alternative_title: Christmas Short Stories
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Papadiamantes, Alexandros
+    aliases:
+    - Papadiamantis, Alexandros
+    - Παπαδιαμάντης, Αλέξανδρος
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '35382'
+    url: http://www.gutenberg.org/2009/agents/35382
+    wikipedia: http://en.wikipedia.org/wiki/Alexandros_Papadiamantis
+description: ''
+gutenberg_issued: '2011-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36845'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PA'
+- !lcsh 'Greek fiction, Modern'
+- !lcsh 'Short stories'
+title: Χριστουγεννιάτικα διηγήματα
+url: http://www.gutenberg.org/ebooks/36845
